@@ -1,2 +1,2 @@
-# internship_tasks
-these are my futureintern projects
+# these are my internship tasks
+
